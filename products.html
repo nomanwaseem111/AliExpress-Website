@@ -74,7 +74,7 @@
         const getAllData = async () => {
 
             try {
-                const response = await axios.get('http://localhost:3000/products');
+                const response = await axios.get('https://aliexpress-website.herokuapp.com/products');
                 console.log(response.data.data);
 
                 let main = document.querySelector('.main')
