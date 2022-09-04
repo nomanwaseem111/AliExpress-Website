@@ -46,7 +46,7 @@ form{
     cursor: pointer;
     padding-top: 20px;
     margin-left: 100px;
-    height: 550px;
+    height: auto;
 
 
 }
@@ -124,7 +124,7 @@ p{
         cursor: pointer;
         padding-top: 10px;
         margin-left: 29px;
-        height: 515px;
+        height: auto;
     
     }
 
